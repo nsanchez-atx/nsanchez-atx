@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nathan Sanchez
 
-<!--
-**nsanchez-atx/nsanchez-atx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at The University of Texas at Austin interested in software engineering, machine learning, and problem solving.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C++
+- Python
+- Git / GitHub
+- Linux / Unix
+
+## Featured Projects
+
+### Crisis Response Engine
+A C++ command-line simulation that models vaccine distribution during regional outbreaks.
+
+- Uses graphs to represent connected regions
+- Uses a priority queue to rank patients by risk
+- Simulates outbreak changes and vaccine supply movement
+
+### Machine Learning Projects
+Python projects exploring foundational machine-learning concepts.
+
+- Perceptron-based classification
+- Dataset analysis
+- Housing-price prediction
+
+### Java Projects
+Java projects focused on recursion, arrays, and problem solving.
+
+- Island Finder using recursive grid traversal
+
+## Currently
+
+- Studying Computer Science at UT Austin
+- Learning data structures and software engineering
+- Looking for software engineering internship opportunities
