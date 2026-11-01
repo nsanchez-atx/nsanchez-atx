@@ -10,6 +10,15 @@ I'm a Computer Science student at The University of Texas at Austin interested i
 
 ## Featured Projects
 
+### [Duck Hours](https://github.com/nsanchez-atx/Duck-Hours)
+
+An AI-assisted coding and debugging workspace built with Python, JavaScript, and FastAPI.
+
+- Combines a Monaco code editor with multi-file workspaces and local execution for eight programming languages
+- Integrates the Meta API for line-specific debugging hints, optional fixes, and logic checks
+- Generates 1–20 test cases for selected functions and methods with separate execution harnesses
+- Saves workspace files, settings, and test cases in browser local storage
+
 ### [Crisis Response Engine](https://github.com/nsanchez-atx/Crisis-Response-Engine)
 
 A C++ command-line simulation for prioritizing patients and managing vaccine distribution during regional outbreaks.
